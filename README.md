@@ -1,2 +1,3 @@
 # portfolioPM
-Building 
+
+Building my own portfolio.
